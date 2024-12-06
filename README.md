@@ -5,4 +5,4 @@ Este é um trabalho para a disciplina de Introdução à Computação Gráfica, 
 
 Para executar, basta usar o comando ```python3 main.py``` .
 
-Na tela principal, há uma lista de instruções do que é possível fazer com as curvas no editor.
+Na tela principal, há uma lista de instruções do que é possível fazer com as curvas no editor. Veja mais detalhes no relatório.
